@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/garuda/ros2_ws/install/qr_detector_camera/lib/python3.10/site-packages",
+        "/home/garuda/ros2_ws/install/qr_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/garuda/ros2_ws/install/qr_detector_camera/lib/python3.10/site-packages",
+        "/home/garuda/ros2_ws/install/qr_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
