@@ -61,6 +61,7 @@ robot8
 <img width="1769" height="713" alt="image" src="https://github.com/user-attachments/assets/8f5b62a8-62ec-44d0-a665-d40a6a34cbcb" />
 
 ---
+
 ## Flask 및 SQLite
 
 Flask
@@ -76,4 +77,4 @@ following car
 https://youtu.be/bvPLSdTD-yo
 
 overall operation
-
+https://youtu.be/Aea6hrjPKZk
