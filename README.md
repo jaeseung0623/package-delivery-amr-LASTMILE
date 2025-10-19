@@ -52,3 +52,21 @@ sudo apt-get install -y \
   ros-humble-ros-gz-sim \
   ros-humble-ros-gz
 ```
+
+## Process Diagram
+robot8
+<img width="2059" height="1023" alt="image" src="https://github.com/user-attachments/assets/a8cd6556-f492-4ce5-9d50-56306f6df9a4" />
+
+robot8
+<img width="1769" height="713" alt="image" src="https://github.com/user-attachments/assets/8f5b62a8-62ec-44d0-a665-d40a6a34cbcb" />
+
+---
+## Flask 및 SQLite
+
+Flask
+<img width="2077" height="753" alt="image" src="https://github.com/user-attachments/assets/0c6dd04a-8f56-40a4-8cd0-1a82b25cff1e" />
+
+SQLite
+<img width="2129" height="863" alt="image" src="https://github.com/user-attachments/assets/a678577e-3a92-4f13-a48f-b43ca0af1a28" />
+
+---
