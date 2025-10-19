@@ -70,3 +70,10 @@ SQLite
 <img width="2129" height="863" alt="image" src="https://github.com/user-attachments/assets/a678577e-3a92-4f13-a48f-b43ca0af1a28" />
 
 ---
+
+## 시연영상
+following car
+https://youtu.be/bvPLSdTD-yo
+
+overall operation
+
