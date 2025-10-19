@@ -1,24 +1,31 @@
 # Package-Delivery-Amr-LASTMILE
 
-택배기사와 주민간의 갈등으로 인한 문제 상황 사례 
-amr를 활용하여 효율적인 택배 배송 시스템 구축
+SLAM, 객체 인식 등을 통해 자율 주행 네비게이션 및 안전한 배송 경로를 확보한다.
 
 ---
 
 ## 프로젝트 개요
 ### **프로젝트 주제 및 선정 배경**
+택배기사와 주민간의 갈등으로 인한 문제 상황 사례 
+amr를 활용하여 효율적인 택배 배송 시스템 구축
 
 ## 사용 장비 및 기술 스택
+- **로봇**: turtlebot4
+<img width="374" height="386" alt="image" src="https://github.com/user-attachments/assets/ada00766-07dd-4039-ab5b-f6b2f39d3342" />
 
 **소프트웨어**
-
+  ROS2 Humble (Ubuntu 22.04)
+  Python3
+  Flask
+  SQlite
+  
+---
 
 ## 프로젝트 트리 구조
 
+---
 
 ## 사전 요구 사항
-
-
 ### ROS2 및 필수 패키지 설치
 
 Ubuntu 22.04 + ROS2 Humble 환경에서 개발되었습니다. 다음 패키지를 설치해 주세요:
