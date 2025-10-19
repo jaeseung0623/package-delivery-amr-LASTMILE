@@ -1,4 +1,47 @@
 # Package-Delivery-Amr-LASTMILE
 
 택배기사와 주민간의 갈등으로 인한 문제 상황 사례 
-<img width="914" height="81" alt="image" src="https://github.com/user-attachments/assets/3a49df01-764e-4c9a-b78b-915a26aa427f" />
+amr를 활용하여 효율적인 택배 배송 시스템 구축
+
+---
+
+## 프로젝트 개요
+### **프로젝트 주제 및 선정 배경**
+
+## 사용 장비 및 기술 스택
+
+**소프트웨어**
+
+
+## 프로젝트 트리 구조
+
+
+## 사전 요구 사항
+
+
+### ROS2 및 필수 패키지 설치
+
+Ubuntu 22.04 + ROS2 Humble 환경에서 개발되었습니다. 다음 패키지를 설치해 주세요:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y \
+  libpoco-dev libyaml-cpp-dev wget \
+  ros-humble-control-msgs ros-humble-realtime-tools ros-humble-xacro \
+  ros-humble-joint-state-publisher-gui ros-humble-ros2-control \
+  ros-humble-ros2-controllers ros-humble-gazebo-msgs ros-humble-moveit-msgs \
+  dbus-x11 ros-humble-moveit-configs-utils ros-humble-moveit-ros-move-group \
+  ros-humble-gazebo-ros-pkgs ros-humble-ros-gz-sim ros-humble-ign-ros2-control
+```
+
+## Gazebo 시뮬레이터 설치
+```
+sudo sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable $(lsb_release -cs) main" > /etc/apt/sources.list.d/gazebo-stable.list'
+wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install -y \
+  libignition-gazebo6-dev \
+  ros-humble-gazebo-ros-pkgs \
+  ros-humble-ros-gz-sim \
+  ros-humble-ros-gz
+```
