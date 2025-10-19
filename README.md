@@ -6,8 +6,8 @@ SLAM, 객체 인식 등을 통해 자율 주행 네비게이션 및 안전한 �
 
 ## 프로젝트 개요
 ### **프로젝트 주제 및 선정 배경**
--택배기사와 주민간의 갈등으로 인한 문제 상황 사례 
--amr를 활용하여 효율적인 택배 배송 시스템 구축
+ 택배기사와 주민간의 갈등으로 인한 문제 상황 사례 
+ amr를 활용하여 효율적인 택배 배송 시스템 구축
 
 ## 사용 장비 및 기술 스택
 - **로봇**: turtlebot4
@@ -54,27 +54,27 @@ sudo apt-get install -y \
 ```
 
 ## Process Diagram
--robot8
+robot8
 <img width="2059" height="1023" alt="image" src="https://github.com/user-attachments/assets/a8cd6556-f492-4ce5-9d50-56306f6df9a4" />
 
--robot9
+robot9
 <img width="1769" height="713" alt="image" src="https://github.com/user-attachments/assets/8f5b62a8-62ec-44d0-a665-d40a6a34cbcb" />
 
 ---
 
 ## Flask 및 SQLite
 
--Flask
+Flask
 <img width="2077" height="753" alt="image" src="https://github.com/user-attachments/assets/0c6dd04a-8f56-40a4-8cd0-1a82b25cff1e" />
 
--SQLite
+SQLite
 <img width="2129" height="863" alt="image" src="https://github.com/user-attachments/assets/a678577e-3a92-4f13-a48f-b43ca0af1a28" />
 
 ---
 
 ## 시연영상
--following car
+following car
 https://youtu.be/bvPLSdTD-yo
 
--overall operation
+overall operation
 https://youtu.be/Aea6hrjPKZk
